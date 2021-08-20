@@ -1,3 +1,18 @@
 ![:name](https://count.getloli.com/get/@Teodric?theme=rule34)
 
-[![Spotify](https://spot-eight.vercel.app/api/spotify)](https://open.spotify.com/user/7lm4ld1rrkco8t2hvzyitg5fh)
+```shell
+$ echo "Hello World!" > README.md
+```
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact" />
+</a>
+
+<br> <br>
+
+⭐️ From [sebaF96](https://github.com/sebaF96)
+
